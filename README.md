@@ -1,2 +1,2 @@
 # Lab4Web
-![Gambar 1](1.JPG)
+![Gambar 1](1.png)
